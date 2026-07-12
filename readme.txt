@@ -1,12 +1,8 @@
-=== Secure Contact Form Pro ===
-Contributors: yourname
+=== Secure Contact Form ===
+Contributors: Minhajul Khan
 Tags: contact form, ajax, security, honeypot, spam protection
 Requires at least: 6.0
-Tested up to: 6.6
 Requires PHP: 7.4
-Stable tag: 1.0.0
-License: GPLv2 or later
-License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 A security-first, enterprise-grade contact form plugin with nonce-verified AJAX submissions, honeypot spam protection, rate limiting, and a clean admin dashboard.
 
